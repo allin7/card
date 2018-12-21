@@ -1,0 +1,36 @@
+<bank>
+<operation week="1" day="1" user="Liza" currency="rub" cost="1" product="food"/>
+<operation week="1" day="1" user="Masha" currency="rub" cost="5" product="dress"/>
+<operation week="1" day="1" user="Sasha" currency="rub" cost="3" product="food"/>
+<operation week="1" day="2" user="Liza" currency="rub" cost="10" product="shoe"/>
+<operation week="1" day="4" user="Sasha" currency="rub" cost="2" product="petrol"/>
+<operation week="1" day="6" user="Liza" currency="rub" cost="45" product="unilities"/>
+<operation week="2" day="1" user="Sasha" currency="rub" cost="1500" product="car"/>
+<operation week="2" day="2" user="Masha" currency="rub" cost="2" product="food"/>
+<operation week="2" day="2" user="Sasha" currency="rub" cost="63" product="unilities"/>
+<operation week="2" day="2" user="Sasha" currency="rub" cost="50" product="unilities"/>
+<operation week="2" day="4" user="Liza" currency="rub" cost="10" product="food"/>
+<operation week="2" day="5" user="Masha" currency="rub" cost="15" product="food"/>
+<operation week="2" day="5" user="Sasha" currency="rub" cost="68" product="petrol"/>
+<operation week="2" day="7" user="Liza" currency="rub" cost="9" product="museum"/>
+<operation week="2" day="7" user="Masha" currency="rub" cost="23" product="aliexpress"/>
+<operation week="3" day="1" user="Liza" currency="rub" cost="5" product="food"/>
+<operation week="3" day="1" user="Masha" currency="rub" cost="99" product="gift"/>
+<operation week="3" day="2" user="Masha" currency="rub" cost="38" product="food"/>
+<operation week="3" day="3" user="Sasha" currency="rub" cost="46" product="food"/>
+<operation week="3" day="3" user="Liza" currency="rub" cost="60" product="swimmingpool"/>
+<operation week="3" day="6" user="Liza" currency="rub" cost="40" product="transport"/>
+<operation week="3" day="6" user="Sasha" currency="rub" cost="55" product="petrol"/>
+<operation week="3" day="7" user="Masha" currency="rub" cost="25" product="museum"/>
+<operation week="3" day="7" user="Liza" currency="rub" cost="2" product="food"/>
+<operation week="4" day="1" user="Sasha" currency="rub" cost="20" product="pants"/>
+<operation week="4" day="1" user="Liza" currency="rub" cost="2" product="food"/>
+<operation week="4" day="1" user="Masha" currency="rub" cost="45" product="transport"/>
+<operation week="4" day="2" user="Masha" currency="rub" cost="35" product="dress"/>
+<operation week="4" day="2" user="Sasha" currency="rub" cost="17" product="food"/>
+<operation week="4" day="3" user="Masha" currency="rub" cost="55" product="taxes"/>
+<operation week="4" day="5" user="Liza" currency="rub" cost="22" product="gift"/>
+<operation week="4" day="6" user="Sasha" currency="rub" cost="20" product="petrol"/>
+<operation week="4" day="6" user="Liza" currency="rub" cost="50" product="taxes"/>
+<operation week="4" day="7" user="Sasha" currency="rub" cost="50" product="taxes"/>
+</bank>

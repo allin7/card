@@ -1,0 +1,16 @@
+Json
+"Operation"
+{ "Week": 1 : [
+{ "Day":1: [
+    { "User" : "Liza", "currency":"rub", "Cost" : 10, "product" :"shoe" },
+    { "User" : "Masha", "currency":"rub", "Cost" : 5, "product" :"clothes" },
+    { "User" : "Sasha", "currency":"rub", "Cost" :1 , "product" :"car"} ]}
+  { "Day":2: [
+    { "User" : "Liza", "currency":"rub", "Cost" : 10, "product" :"shoe"},
+    { "User" : "Masha", "currency":"rub", "Cost" : 5, "product" :"clothes"}
+    { "User" : "Sasha" ,"currency":"rub", "Cost" :1 , "product" :"car"} ] }
+  { "Day":3: [
+    { "User": "Liza", "currency":"rub", "Cost" : 1, "product" :"food"},
+    { "User": "Masha", "currency":"rub", "Cost" : 5, "product" :"clothes"},
+    { "User": "Sasha", "currency":"rub", "Cost" :3 , "product" :"food"} ] }
+]
